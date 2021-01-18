@@ -1,0 +1,7 @@
+## Interface: 90002 
+## Title: HideGryphons 
+## Notes: Hides the gryphons at both ends of the actionbar
+## Author: sulan 
+## Version: 1.0 
+
+HideGryphons.lua
